@@ -10,6 +10,6 @@
 -1 Arduino Nano
 -1 buzzer
 -1 sensor bluetooth
--1 sensor υπερήχων  HC-SR04
+-1 sensor υπερήχων HC-SR04
 -Leds, Resistors, Cables
 3. Για την επίδειξη του project θα κατασκευασθεί ένας χώρος προσομοιωτικός ενός κτιρίου και θα χρειασθούν υλικά κατασκευής του, μακετόχαρτα, κόλλες κλπ.
