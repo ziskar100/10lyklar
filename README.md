@@ -6,8 +6,10 @@
 
 Ως υλικά hardware θα χρησιμοποιηθούν:
 1. Για τον σχεδιασμό και κατασκευή της κάψουλας θα χρησιμοποιηθεί ο ήδη υπάρχων 3D Printer Ultimaker 3 του σχολείου. Θα χρειασθεί η χρηματοδότηση του fillament του printer.
-2. Για τον προγραμματισμό της κάψουλας θα χρειασθούν:
--1 Arduino Nano
+2. Για τον προγραμματισμό της κάψουλας θα χρειασθούν τα εξής υλικά με τις τιμές τους (φαίνονται στα sites)
+-1 Arduino Nano 
+-1 Robot Tank Car Chassis (https://www.zipy.gr/p/ali/t100-robot-tank-car-chassis-crawler-tracked-model-caterpillar-chain-vehicle-mobile-platform-tractor-diy-rc-toy/32932885293/#wrapper)
+-1 νήμα 
 -1 buzzer
 -1 sensor bluetooth
 -1 sensor υπερήχων HC-SR04
