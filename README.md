@@ -16,8 +16,10 @@
 δ.
 1 CMOS Camera https://www.hellasdigital.gr/electronics/sensors/cameras/vga-ov7670-cmos-camera-module-lens-640x480-sccb-w-i2c-interface-for-arduino/ €11
 ε.
--1 buzzer
 -1 sensor bluetooth
+
+1 buzzer 
+
 -1 sensor υπερήχων HC-SR04
 -Leds, Resistors, Cables
 3. Για την επίδειξη του project θα κατασκευασθεί ένας χώρος προσομοιωτικός ενός κτιρίου και θα χρειασθούν υλικά κατασκευής του, μακετόχαρτα, κόλλες κλπ. (τα υλικά αυτά θα τα προμηθευτεί η σχολική μονάδα)
