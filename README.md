@@ -23,7 +23,7 @@
 
 -1x Breadboard
 
-- Jumper wires and Resistors
+-xJumper wires and Resistors
 
 -1x 9 volt battery rechargeable    [~8€]
 
