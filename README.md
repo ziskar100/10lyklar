@@ -20,24 +20,41 @@
 
 1. Για τον σχεδιασμό και κατασκευή του project Oceanis:
 -1x Arduino UNO     [~7€]
--1x Breadboard 
+
+-1x Breadboard
+
 - Jumper wires and Resistors
+
 -1x 9 volt battery rechargeable    [~8€]
+
 -1x 9 volt battery connector     [~0.5€]
+
 -1x Bluetooth module HC-06      [~7€]
+
 -1x L293D IC     [~1€]
+
 -2x DC motors     [~6€]
+
 -1x Stepper motor     [~3€]
+
 -1x DS18B20 Waterproof Temperature Sensor    [~3.5€]
+
 -1x Analog Turbidity Sensor for Arduino     [~13€]
+
 -1x ESP8266 wifi module     [~5€]
+
 -1x Fillament for 3d printer     [~17€]
+
 -Μεταφορικά      [~4€]
 
 2. Για τον προγραμματισμό  θα χρησιμοποιηθούν:
+
 -Περιβάλλον προγραμματισμού Arduino IDE (ελεύθερο λογισμικό)
+
 -Περιβάλλον προγραμματισμού AppInventor (ελεύθερο λογισμικό)
+
 -Ρυθμίσεις πλατφόρμας IoT (ελεύθερης πρόσβασης)
+
 
 Ενδεικτικό κόστος:
 70 Ευρώ
