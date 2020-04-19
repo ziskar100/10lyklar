@@ -26,7 +26,7 @@ void loop()
     {
       motor1.run(FORWARD);
       motor2.run(FORWARD);
-      motor.step(100, BACKWARD, SINGLE); 
+      motor.step(100, FORWARD, SINGLE); 
        if(flag == 0)
        {
          Serial.println("Go Forward!");
