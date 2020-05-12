@@ -1,0 +1,17 @@
+#include <OneWire.h> //First we include the two libraries
+#include <DallasTemperature.h>
+#define ONE_WIRE_BUS 8 //Data wire is plugged into pin 8 on the Arduino 
+OneWire oneWire(ONE_WIRE_BUS); //Setup a oneWire instance to communicate with any OneWire device, not just Maxim/Dallas temperature ICs 
+DallasTemperature sensors(&oneWire); //Pass our oneWire reference to Dallas Temperature
+void setup() 
+{ 
+  Serial.begin(9600); //Start serial port 
+  sensors.begin(); //Start up the library 
+} 
+void loop() 
+{ 
+  sensors.requestTemperatures(); //call sensors.requestTemperatures() to issue a global temperature
+  Serial.print("Temperature is: ");
+  Serial.println(sensors.getTempCByIndex(0)); //You can have more than one DS18B20 on the same bus. 0 refers to the first IC on the wire 
+  delay(1000); 
+}
