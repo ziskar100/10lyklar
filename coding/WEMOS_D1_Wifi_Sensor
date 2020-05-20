@@ -11,8 +11,8 @@ OneWire ourWire(DS18B20); //Setup a oneWire instance to communicate with any One
 DallasTemperature sensor(&ourWire); //Pass our oneWire reference to Dallas Temperature
  
 //Wi-Fi Settings
-const char* ssid = "CYTACCF2"; //your wireless network name (SSID)
-const char* password = "zsa!@#100"; //your Wi-Fi network password
+const char* ssid = "**********"; //your wireless network name (SSID)
+const char* password = "********"; //your Wi-Fi network password
 WiFiClient client;
  
 //ThingSpeak Settings
